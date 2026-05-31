@@ -21,19 +21,12 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 
 **Solution** — An automated daily brief that pulls the numbers and the news into one banker's-eye read, published every morning.
 
-### [YieldScope](https://yieldscope.clauding-lab.com)
-<a href="https://yieldscope.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-yieldscope.svg" alt="YieldScope" width="100%"></a>
+### CIBxRay &nbsp;·&nbsp; 🔒 *private — deployed in production at a financial institution*
+<img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-cibxray.svg" alt="CIBxRay — Credit Bureau Intelligence" width="100%">
 
-**Problem** — Treasury & ALCO teams lack a single, at-a-glance view of the yield curve, money-market liquidity, and the macro signals they use to manage the balance sheet.
+**Problem** — Assessing a borrower means manually combing dense Bangladesh Bank CIB (Credit Information Bureau) reports — slow, inconsistent, and easy to miss red flags.
 
-**Solution** — A mobile-first treasury/ALCO dashboard surfacing government-securities yields, liquidity, and macro indicators in one place.
-
-### [EconDelta](https://econdelta.clauding-lab.com)
-<a href="https://econdelta.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/econdelta/badges/hero.svg" alt="EconDelta" width="100%"></a>
-
-**Problem** — Bangladesh's economic data is fragmented across PDFs, portals, and circulars — hard to collect cleanly or track over time.
-
-**Solution** — A deterministic data platform that ingests, parses, and serves BD economic indicators as clean, queryable data — and powers the products above.
+**Solution** — A platform that automatically parses, scores, and analyzes CIB reports, turning raw credit-bureau data into structured, consistent credit-risk insight.
 
 ### [Clauge](https://github.com/clauding-lab/clauge)
 <a href="https://github.com/clauding-lab/clauge"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-clauge.svg" alt="Clauge" width="100%"></a>
@@ -42,12 +35,19 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 
 **Solution** — A desktop app that turns local Claude Code logs into token-usage analytics and subscription-ROI insight.
 
-### CIBxRay &nbsp;·&nbsp; 🔒 *private — deployed in production at a financial institution*
-<img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-cibxray.svg" alt="CIBxRay — Credit Bureau Intelligence" width="100%">
+### [EconDelta](https://econdelta.clauding-lab.com)
+<a href="https://econdelta.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/econdelta/badges/hero.svg" alt="EconDelta" width="100%"></a>
 
-**Problem** — Assessing a borrower means manually combing dense Bangladesh Bank CIB (Credit Information Bureau) reports — slow, inconsistent, and easy to miss red flags.
+**Problem** — Bangladesh's economic data is fragmented across PDFs, portals, and circulars — hard to collect cleanly or track over time.
 
-**Solution** — A platform that automatically parses, scores, and analyzes CIB reports, turning raw credit-bureau data into structured, consistent credit-risk insight.
+**Solution** — A deterministic data platform that ingests, parses, and serves BD economic indicators as clean, queryable data — and powers the products above.
+
+### [YieldScope](https://yieldscope.clauding-lab.com)
+<a href="https://yieldscope.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-yieldscope.svg" alt="YieldScope" width="100%"></a>
+
+**Problem** — Treasury & ALCO teams lack a single, at-a-glance view of the yield curve, money-market liquidity, and the macro signals they use to manage the balance sheet.
+
+**Solution** — A mobile-first treasury/ALCO dashboard surfacing government-securities yields, liquidity, and macro indicators in one place.
 
 ---
 
