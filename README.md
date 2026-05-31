@@ -4,7 +4,7 @@
 
 **An AI-built product studio for banking & economic intelligence — Bangladesh**
 
-🌐 Live: [The Brief](https://thebrief.clauding-lab.com) · [YieldScope](https://yieldscope.clauding-lab.com) · [EconDelta](https://econdelta.clauding-lab.com) · [Clauge](https://github.com/clauding-lab/clauge) &nbsp;|&nbsp; 🔒 CIBxRay — deployed at a financial institution &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/adnanrshd/)
+🌐 Live: [The Brief](https://thebrief.clauding-lab.com) ·  🔒 **CIBxRay** · [Clauge](https://github.com/clauding-lab/clauge) · [EconDelta](https://econdelta.clauding-lab.com) · [YieldScope](https://yieldscope.clauding-lab.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/adnanrshd/)
 
 </div>
 
