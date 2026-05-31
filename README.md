@@ -33,12 +33,14 @@ I architect and direct AI coding agents to design, build, and ship real, deploye
 **Solution** — A deterministic data platform that ingests, parses, and serves BD economic indicators as clean, queryable data — and powers the products above.
 
 ### [Clauge](https://github.com/clauding-lab/clauge)
-<a href="https://github.com/clauding-lab/clauge"><img src="https://raw.githubusercontent.com/clauding-lab/clauge/main/docs/screenshots/v0.9.5/dashboard.png" alt="Clauge" width="100%"></a>
+<a href="https://github.com/clauding-lab/clauge"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-clauge.svg" alt="Clauge" width="100%"></a>
 
 **Problem** — Teams adopting AI-assisted coding can't see what it actually costs, or whether the subscription earns its keep.
 **Solution** — A desktop app that turns local Claude Code logs into token-usage analytics and subscription-ROI insight.
 
 ### CIBxRay &nbsp;·&nbsp; 🔒 *private — deployed in production at a financial institution*
+<img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-cibxray.svg" alt="CIBxRay — Credit Bureau Intelligence" width="100%">
+
 **Problem** — Assessing a borrower means manually combing dense Bangladesh Bank CIB (Credit Information Bureau) reports — slow, inconsistent, and easy to miss red flags.
 **Solution** — A platform that automatically parses, scores, and analyzes CIB reports, turning raw credit-bureau data into structured, consistent credit-risk insight.
 
