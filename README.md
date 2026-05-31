@@ -54,4 +54,4 @@ Every product is **vibe-coded** — I direct AI coding agents (Claude Code) rath
 
 ## Connect
 
-**[LinkedIn](https://www.linkedin.com/in/adnanrshd/)** — where banking meets building.
+**[LinkedIn](https://www.linkedin.com/in/adnanrshd/)**
