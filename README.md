@@ -1,6 +1,6 @@
 <div align="center">
 
-# clauding-lab
+# The Clauding-Lab
 
 **An AI-built product studio for banking & economic intelligence — Bangladesh**
 
