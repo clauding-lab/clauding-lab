@@ -35,12 +35,18 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 
 **Solution** — A banking-calculator suite that runs deposit, loan, and EMI numbers the way Bangladeshi banks actually do — on the web and on iOS.
 
+<a href="https://apps.apple.com/us/app/incalc-bd/id6780260202"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/badge-app-store.svg" alt="Download InCalc BD on the App Store" height="40"></a>
+
 ### [Clauge](https://github.com/clauding-lab/clauge)
 <a href="https://github.com/clauding-lab/clauge"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-clauge.svg" alt="Clauge" width="100%"></a>
 
 **Problem** — Teams adopting AI-assisted coding can't see what it actually costs and how many tokens are used without opening the AI app or webpage, or whether the subscription earns its keep.
 
 **Solution** — A desktop app that turns local Claude Code logs into token-usage analytics and subscription-ROI insight.
+
+<a href="https://apps.apple.com/us/app/clauge/id6770303247"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/badge-mac-app-store.svg" alt="Download Clauge on the Mac App Store" height="40"></a>
+&nbsp;
+<a href="https://apps.apple.com/us/app/clauge-token-analytics/id6777443865"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/badge-app-store.svg" alt="Download Clauge - Token Analytics on the App Store" height="40"></a>
 
 ### [EconDelta](https://econdelta.clauding-lab.com)
 <a href="https://econdelta.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-econdelta.svg" alt="EconDelta" width="100%"></a>
