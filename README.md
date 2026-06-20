@@ -64,7 +64,7 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 
 ---
 
-## How it's built
+## How the applications are built
 
 Every product is **vibe-coded** — I direct AI coding agents (Claude Code) rather than hand-writing code. Each repo runs a small governance system (`AGENTS.md` · `VISION.md` · `AGENT_LEARNINGS.md`) so the agents ship consistently and learn from mistakes. Several run in production: *The Brief* researches, writes, and publishes itself every morning, unattended; *EconDelta* captures data from the web and stores it every day, autonomously; *YieldScope* analyzes the EconDelta data and generates a weekly ALCO briefing.
 
