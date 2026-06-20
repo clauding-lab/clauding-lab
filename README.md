@@ -4,7 +4,7 @@
 
 **An AI-built product studio for banking & economic intelligence — Bangladesh**
 
-🌐 Live: [The Brief](https://thebrief.clauding-lab.com) ·  🔒 **CIBxRay** · [Clauge](https://github.com/clauding-lab/clauge) · [EconDelta](https://econdelta.clauding-lab.com) · [YieldScope](https://yieldscope.clauding-lab.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/adnanrshd/)
+🌐 Live: [The Brief](https://thebrief.clauding-lab.com) ·  🔒 **CIBxRay** · [InCalc](https://incalc.clauding-lab.com) · [Clauge](https://github.com/clauding-lab/clauge) · [EconDelta](https://econdelta.clauding-lab.com) · [YieldScope](https://yieldscope.clauding-lab.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/adnanrshd/)
 
 </div>
 
@@ -28,6 +28,13 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 
 **Solution** — A platform that automatically parses, scores, and analyzes CIB reports, turning raw credit-bureau data into structured, consistent credit-risk insight.
 
+### [InCalc](https://incalc.clauding-lab.com)
+<a href="https://incalc.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-incalc.svg" alt="InCalc — Bangladesh banking calculators" width="100%"></a>
+
+**Problem** — Deposit, loan, and EMI maths in Bangladeshi banking carries local rules — excise duty, source tax, profit rates, tenor conventions — that generic calculators get wrong and customers can't easily verify.
+
+**Solution** — A banking-calculator suite that runs deposit, loan, and EMI numbers the way Bangladeshi banks actually do — on the web and on iOS.
+
 ### [Clauge](https://github.com/clauding-lab/clauge)
 <a href="https://github.com/clauding-lab/clauge"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-clauge.svg" alt="Clauge" width="100%"></a>
 
@@ -36,7 +43,7 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 **Solution** — A desktop app that turns local Claude Code logs into token-usage analytics and subscription-ROI insight.
 
 ### [EconDelta](https://econdelta.clauding-lab.com)
-<a href="https://econdelta.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/econdelta/badges/hero.svg" alt="EconDelta" width="100%"></a>
+<a href="https://econdelta.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-econdelta.svg" alt="EconDelta" width="100%"></a>
 
 **Problem** — Bangladesh's economic data is fragmented across PDFs, portals, and circulars — hard to collect cleanly or track over time.
 
