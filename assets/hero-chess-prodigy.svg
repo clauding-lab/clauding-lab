@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101218"/>
+      <stop offset="1" stop-color="#171a22"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.86" cy="0.10" r="0.6">
+      <stop offset="0" stop-color="#d7b377" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#d7b377" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1b1e27"/>
+      <stop offset="1" stop-color="#12141b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#glow)"/>
+
+  <!-- right-side board: the app's dark theme, a knight on d4 and its eight moves (a coach's hint) -->
+  <g>
+    <rect x="870" y="32" width="276" height="276" rx="10" fill="url(#frame)" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+    <g>
+      <rect x="880" y="42" width="32" height="32" fill="#4a5262"/>
+      <rect x="912" y="42" width="32" height="32" fill="#2c313d"/>
+      <rect x="944" y="42" width="32" height="32" fill="#4a5262"/>
+      <rect x="976" y="42" width="32" height="32" fill="#2c313d"/>
+      <rect x="1008" y="42" width="32" height="32" fill="#4a5262"/>
+      <rect x="1040" y="42" width="32" height="32" fill="#2c313d"/>
+      <rect x="1072" y="42" width="32" height="32" fill="#4a5262"/>
+      <rect x="1104" y="42" width="32" height="32" fill="#2c313d"/>
+      <rect x="880" y="74" width="32" height="32" fill="#2c313d"/>
+      <rect x="912" y="74" width="32" height="32" fill="#4a5262"/>
+      <rect x="944" y="74" width="32" height="32" fill="#2c313d"/>
+      <rect x="976" y="74" width="32" height="32" fill="#4a5262"/>
+      <rect x="1008" y="74" width="32" height="32" fill="#2c313d"/>
+      <rect x="1040" y="74" width="32" height="32" fill="#4a5262"/>
+      <rect x="1072" y="74" width="32" height="32" fill="#2c313d"/>
+      <rect x="1104" y="74" width="32" height="32" fill="#4a5262"/>
+      <rect x="880" y="106" width="32" height="32" fill="#4a5262"/>
+      <rect x="912" y="106" width="32" height="32" fill="#2c313d"/>
+      <rect x="944" y="106" width="32" height="32" fill="#4a5262"/>
+      <rect x="976" y="106" width="32" height="32" fill="#2c313d"/>
+      <rect x="1008" y="106" width="32" height="32" fill="#4a5262"/>
+      <rect x="1040" y="106" width="32" height="32" fill="#2c313d"/>
+      <rect x="1072" y="106" width="32" height="32" fill="#4a5262"/>
+      <rect x="1104" y="106" width="32" height="32" fill="#2c313d"/>
+      <rect x="880" y="138" width="32" height="32" fill="#2c313d"/>
+      <rect x="912" y="138" width="32" height="32" fill="#4a5262"/>
+      <rect x="944" y="138" width="32" height="32" fill="#2c313d"/>
+      <rect x="976" y="138" width="32" height="32" fill="#4a5262"/>
+      <rect x="1008" y="138" width="32" height="32" fill="#2c313d"/>
+      <rect x="1040" y="138" width="32" height="32" fill="#4a5262"/>
+      <rect x="1072" y="138" width="32" height="32" fill="#2c313d"/>
+      <rect x="1104" y="138" width="32" height="32" fill="#4a5262"/>
+      <rect x="880" y="170" width="32" height="32" fill="#4a5262"/>
+      <rect x="912" y="170" width="32" height="32" fill="#2c313d"/>
+      <rect x="944" y="170" width="32" height="32" fill="#4a5262"/>
+      <rect x="976" y="170" width="32" height="32" fill="#2c313d"/>
+      <rect x="1008" y="170" width="32" height="32" fill="#4a5262"/>
+      <rect x="1040" y="170" width="32" height="32" fill="#2c313d"/>
+      <rect x="1072" y="170" width="32" height="32" fill="#4a5262"/>
+      <rect x="1104" y="170" width="32" height="32" fill="#2c313d"/>
+      <rect x="880" y="202" width="32" height="32" fill="#2c313d"/>
+      <rect x="912" y="202" width="32" height="32" fill="#4a5262"/>
+      <rect x="944" y="202" width="32" height="32" fill="#2c313d"/>
+      <rect x="976" y="202" width="32" height="32" fill="#4a5262"/>
+      <rect x="1008" y="202" width="32" height="32" fill="#2c313d"/>
+      <rect x="1040" y="202" width="32" height="32" fill="#4a5262"/>
+      <rect x="1072" y="202" width="32" height="32" fill="#2c313d"/>
+      <rect x="1104" y="202" width="32" height="32" fill="#4a5262"/>
+      <rect x="880" y="234" width="32" height="32" fill="#4a5262"/>
+      <rect x="912" y="234" width="32" height="32" fill="#2c313d"/>
+      <rect x="944" y="234" width="32" height="32" fill="#4a5262"/>
+      <rect x="976" y="234" width="32" height="32" fill="#2c313d"/>
+      <rect x="1008" y="234" width="32" height="32" fill="#4a5262"/>
+      <rect x="1040" y="234" width="32" height="32" fill="#2c313d"/>
+      <rect x="1072" y="234" width="32" height="32" fill="#4a5262"/>
+      <rect x="1104" y="234" width="32" height="32" fill="#2c313d"/>
+      <rect x="880" y="266" width="32" height="32" fill="#2c313d"/>
+      <rect x="912" y="266" width="32" height="32" fill="#4a5262"/>
+      <rect x="944" y="266" width="32" height="32" fill="#2c313d"/>
+      <rect x="976" y="266" width="32" height="32" fill="#4a5262"/>
+      <rect x="1008" y="266" width="32" height="32" fill="#2c313d"/>
+      <rect x="1040" y="266" width="32" height="32" fill="#4a5262"/>
+      <rect x="1072" y="266" width="32" height="32" fill="#2c313d"/>
+      <rect x="1104" y="266" width="32" height="32" fill="#4a5262"/>
+    </g>
+    <!-- knight's square, in the app's last-move gold -->
+    <rect x="976" y="170" width="32" height="32" fill="#d7b377" fill-opacity="0.28"/>
+    <!-- knight-move dots -->
+    <g fill="#d7b377" fill-opacity="0.9">
+      <circle cx="1024" cy="122" r="5.5"/>
+      <circle cx="1056" cy="154" r="5.5"/>
+      <circle cx="1056" cy="218" r="5.5"/>
+      <circle cx="1024" cy="250" r="5.5"/>
+      <circle cx="960" cy="250" r="5.5"/>
+      <circle cx="928" cy="218" r="5.5"/>
+      <circle cx="928" cy="154" r="5.5"/>
+      <circle cx="960" cy="122" r="5.5"/>
+    </g>
+    <!-- the app-icon knight (scripts/generate-icons.mjs), scaled onto d4 -->
+    <g transform="translate(965.25 160.9) scale(0.1)">
+      <path d="M177 354c5-53 38-84 78-111l-45 7-25 20-38-22 16-42 55-47 12-52 35 30c65 3 110 58 109 130l-3 87z" fill="#eef0f4"/>
+      <path d="M266 170c50 22 70 70 58 142" fill="none" stroke="#2c313d" stroke-width="13" stroke-linecap="round"/>
+      <path d="m224 168-22 27 33-9z" fill="#2c313d"/>
+      <path d="m159 236 26 7" fill="none" stroke="#2c313d" stroke-width="9" stroke-linecap="round"/>
+      <path d="M172 368h202l14 27H158z" fill="#eef0f4"/>
+    </g>
+  </g>
+
+  <!-- left content -->
+  <rect x="64" y="68" width="52" height="3" fill="#d7b377"/>
+  <text x="64" y="99" font-size="13.5" letter-spacing="2.5" fill="#868d9e">BROWSER CHESS COACH · PLAY · LEARN · IMPROVE</text>
+  <text x="61" y="184" font-size="76" font-weight="700" fill="#eef0f4">Chess <tspan fill="#d7b377">Prodigy</tspan></text>
+  <text x="64" y="230" font-size="22" fill="#c3c8d4">Your personal chess coach — against history’s masters.</text>
+  <text x="64" y="300" font-size="14.5" fill="#868d9e">chess.clauding-lab.com</text>
+  <text x="820" y="300" text-anchor="end" font-size="12.5" letter-spacing="1.5" fill="#868d9e">6 OPPONENTS · 3 LEVELS · OFFLINE PWA</text>
+</svg>

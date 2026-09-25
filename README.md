@@ -4,7 +4,7 @@
 
 **An AI-built product studio for banking & economic intelligence — Bangladesh**
 
-🌐 Live: 🔒 **CIBxRay** · [Clauge](https://github.com/clauding-lab/clauge) · [InCalc](https://incalc.clauding-lab.com) · [The Brief](https://thebrief.clauding-lab.com) · [EconDelta](https://econdelta.clauding-lab.com) · [YieldScope](https://yieldscope.clauding-lab.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/adnanrshd/)
+🌐 Live: 🔒 **CIBxRay** · [Clauge](https://github.com/clauding-lab/clauge) · [InCalc](https://incalc.clauding-lab.com) · [The Brief](https://thebrief.clauding-lab.com) · [EconDelta](https://econdelta.clauding-lab.com) · [YieldScope](https://yieldscope.clauding-lab.com) · [Chess Prodigy](https://chess.clauding-lab.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/adnanrshd/)
 
 </div>
 
@@ -54,6 +54,13 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 **Problem** — Bangladesh's economic data is fragmented across PDFs, portals, and circulars — hard to collect cleanly or track over time.
 
 **Solution** — A deterministic data platform that ingests, parses, and serves BD economic indicators as clean, queryable data — and powers the products above.
+
+### [Chess Prodigy](https://chess.clauding-lab.com) &nbsp;·&nbsp; [(Repo)](https://github.com/clauding-lab/chess-prodigy)
+<a href="https://chess.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-chess-prodigy.svg" alt="Chess Prodigy — browser chess coach" width="100%"></a>
+
+**Problem** — Learning chess against a computer usually means a silent engine that punishes mistakes without explaining them, and a faceless opponent with no style or story.
+
+**Solution** — A browser chess coach with hints, opening explanations and move-by-move game review, played against opponents inspired by history's masters — Morphy, Chigorin, Spassky, Tal and Fischer — who open with moves from their recorded games.
 
 ---
 
