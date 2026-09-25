@@ -55,13 +55,6 @@ A professional banker and self-taught vibe-coder. I architect and direct AI codi
 
 **Solution** — A deterministic data platform that ingests, parses, and serves BD economic indicators as clean, queryable data — and powers the products above.
 
-### [YieldScope](https://yieldscope.clauding-lab.com) &nbsp;·&nbsp; [(Repo)](https://github.com/clauding-lab/YieldScope)
-<a href="https://yieldscope.clauding-lab.com"><img src="https://raw.githubusercontent.com/clauding-lab/clauding-lab/main/assets/hero-yieldscope.svg" alt="YieldScope" width="100%"></a>
-
-**Problem** — Treasury & ALCO teams lack a single, at-a-glance view of the yield curve, money-market liquidity, and the macro signals they use to manage the balance sheet.
-
-**Solution** — A mobile-first treasury/ALCO dashboard surfacing government-securities yields, liquidity, and macro indicators in one place.
-
 ---
 
 ## How the applications are built
